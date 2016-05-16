@@ -29,7 +29,7 @@ controller.hears(['hello', 'hi'], ['direct_mention'], function (bot, message) {
 })
 
 controller.hears(['hello', 'hi'], ['direct_message'], function (bot, message) {
-  bot.reply(message, '(Looks at you with a puzzled expression')
+  bot.reply(message, '(Looks at you with a puzzled expression)')
   bot.reply(message, 'WOOF!')
 })
 
