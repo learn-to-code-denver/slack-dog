@@ -1,0 +1,24 @@
+{
+  "name": "slack-dog",
+  "version": "1.0.0",
+  "description": "A puppy for your slack channel",
+  "main": "puppy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-to-code-denver/slack-dog.git"
+  },
+  "keywords": [
+    "slack",
+    "mascot",
+    "slack-dog"
+  ],
+  "author": "Matt Sprague",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/learn-to-code-denver/slack-dog/issues"
+  },
+  "homepage": "https://github.com/learn-to-code-denver/slack-dog#readme"
+}
