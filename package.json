@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/learn-to-code-denver/slack-dog/issues"
   },
-  "homepage": "https://github.com/learn-to-code-denver/slack-dog#readme"
+  "homepage": "https://github.com/learn-to-code-denver/slack-dog#readme",
+  "dependencies": {
+    "botkit": "^0.1.1"
+  }
 }
