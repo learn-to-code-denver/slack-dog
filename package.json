@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/learn-to-code-denver/slack-dog#readme",
   "dependencies": {
-    "botkit": "^0.1.1"
+    "botkit": "0.0.5"
   }
 }
